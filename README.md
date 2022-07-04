@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ennatiqi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on i dont know
-- 📫 How to reach me 
+- 📫 front-end / python 
 
 <!---
 ennatiqi/ennatiqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
