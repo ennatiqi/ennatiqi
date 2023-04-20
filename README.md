@@ -28,7 +28,7 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://www.linkedin.com/in/rachid-ennatiqi" rel="nofollow">Instagram</a>
+├─◈ <a href="https://www.linkedin.com/in/rachid-ennatiqi" rel="nofollow">Linkedin</a>
 ├─◈ Discord: ! L.R.E[rennatiq]#4762
 │
 └───────────────────────────────▰▰▰
