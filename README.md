@@ -40,7 +40,7 @@
 ├─◈ <a href="https://github.com/ennatiqi/push_swap">push_swap</a>
 ├─◈ <a href="https://github.com/ennatiqi/so_long">so_long</a>
 ├─◈ <a href="https://github.com/ennatiqi/pipex">pipex</a>
-├─◈ <a href="https://github.com/ennatiqi/philosophers">philosohers</a>
+├─◈ <a href="https://github.com/ennatiqi/philosopher">philosoher</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
