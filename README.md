@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **42 projects**
 
-- 🌱 I’m currently learning **c/c++**
+- 🌱 I’m currently learning **Django & python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,6 +35,11 @@
 
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
+├─◈ <a href="https://github.com/ennatiqi/ft_transcendence">ft_trancendence</a>
+├─◈ <a href="https://github.com/ennatiqi/inception">inception</a>
+├─◈ <a href="https://github.com/ennatiqi/webserv">webserver</a>
+├─◈ <a href="https://github.com/ennatiqi/cpp_module">C++</a>
+├─◈ <a href="https://github.com/ennatiqi/cub3d">C game</a>
 ├─◈ <a href="https://github.com/ennatiqi/get_next_line">get_next_line</a>
 ├─◈ <a href="https://github.com/ennatiqi/ft_printf">ft_printf</a>
 ├─◈ <a href="https://github.com/ennatiqi/push_swap">push_swap</a>
